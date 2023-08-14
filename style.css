@@ -97,6 +97,40 @@ nav .navigation ul li a:hover{
   line-height: 25px;
 }
 
+#home .btn{
+  margin-top: 30px;
+}
+
+#home a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  padding: 13px 35px;
+  background-color: #fff;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+#home a.blue{
+  color: #fff;
+  background: rgb(21, 21, 100);
+}
+
+#home a.blue:hover {
+  color: rgb(21, 21, 100);
+  background: #fff;
+}
+
+#home a.yellow{
+  color: #fff;
+  background: #FDC93B;
+  transition: 0.3s ease;
+}
+
+#home a.yellow:hover {
+  color: rgb(21, 21, 100);
+  background: #fff;
+}
+
 /* features */
 
 /* course */
