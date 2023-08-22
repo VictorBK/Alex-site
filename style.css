@@ -407,6 +407,33 @@ footer .subscribe a.yellow:hover {
   background: #fff;
 }
 
+footer .copyright {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+footer .copyright p{
+  color: #fff;
+}
+
+footer .copyright .pro-links {
+  margin-top: 0px;
+}
+
+footer .copyright .pro-links i {
+  background-color: #5f7185;
+  color: #fff;
+}
+
+footer .copyright .pro-links i:hover {
+  background-color: #FDC93B;
+  color: #2c2c2c;
+}
+
 
 
 /* About */
